@@ -6,3 +6,12 @@
 git clone 项目地址
 ``` 
 
+### 下载依赖
+```
+npm install
+```
+
+### 运行
+```
+npm run serve
+```
