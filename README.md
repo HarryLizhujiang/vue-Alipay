@@ -15,3 +15,16 @@ npm install
 ```
 npm run serve
 ```
+
+### server是express目录
+### 进入server目录下载依赖
+```
+npm install
+```
+
+### 运行express
+```
+npm run start
+```
+
+express 端口3000
